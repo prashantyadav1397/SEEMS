@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Original_Location_manager1/library/build/intermediates/intermediate-jars/debug/res.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Original_Location_manager1/library/build/intermediates/intermediate-jars/debug/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
